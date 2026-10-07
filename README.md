@@ -1,11 +1,3 @@
-### 🐍 Змейка ест мои коммиты
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PoloLgnd/PoloLgnd/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PoloLgnd/PoloLgnd/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PoloLgnd/PoloLgnd/output/github-contribution-grid-snake.svg">
-</picture>
-
 ### Привет! Меня зовут Максим 👋
 
 Я начинающий веб-разработчик, увлеченный созданием удобных и красивых веб-приложений. Постоянно учусь, экспериментирую с кодом и стремлюсь к тому, чтобы мои проекты приносили реальную пользу.
