@@ -33,8 +33,8 @@
 
 ### 📫 Как со мной связаться
 
-- 📧 Email: [59186068+PoloLgnd@users.noreply.github.com](mailto:твоя@почта.com)
-- 💬 Telegram: [@твой_ник](https://t.me/Polo_Legend) *(замени на свой)*
+- 📧 Email: [59186068+PoloLgnd@users.noreply.github.com](mailto:59186068+PoloLgnd@users.noreply.github.com)
+- 💬 Telegram: [@твой_ник](https://t.me/Polo_Legend)
 
 ---
 
